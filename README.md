@@ -73,7 +73,7 @@ git clone https://github.com/Chowdri-Furkhan07/inventory-analytics-dashboard.git
 ## 2️⃣ Navigate to the Project Directory
 
 ```bash
-cd smart-inventory-management-system
+cd inventory-analytics-dashboard
 ```
 
 ## 3️⃣ Create Virtual Environment (Optional)
@@ -156,6 +156,24 @@ streamlit run app.py
 # 🌐 Deployment
 
 The application is deployed using **Streamlit Cloud**.
+
+# Live Demo
+
+🚀 Experience the live application here:
+
+👉 [Smart Inventory Management Syste](https://your-streamlit-app-link.streamlit.app)
+
+---
+
+### 📌 Features Available in Live Demo
+
+* Real-time Inventory Dashboard
+* Product Management
+* Stock Monitoring
+* Inventory Analytics
+* CSV Report Download
+* Interactive Data Visualization
+
 
 ---
 
