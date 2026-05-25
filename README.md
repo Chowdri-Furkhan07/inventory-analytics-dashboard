@@ -67,7 +67,7 @@ smart-inventory-management-system/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/smart-inventory-management-system.git
+git clone https://github.com/Chowdri-Furkhan07/inventory-analytics-dashboard.git
 ```
 
 ## 2️⃣ Navigate to the Project Directory
