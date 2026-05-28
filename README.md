@@ -203,6 +203,7 @@ The application is deployed using **Streamlit Cloud**.
 # 👩‍💻 Author
 
 **Chowdri Furkhan**
+
 AI/ML Engineer | Data Science Enthusiast
 
 ---
