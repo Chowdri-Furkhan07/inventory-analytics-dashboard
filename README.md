@@ -6,7 +6,8 @@ This project demonstrates practical implementation of **data management, analyti
 
 ---
 
-!alt_text(image.png)
+![Dashboard](Dashboard.png)
+
 
 ---
 
