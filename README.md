@@ -166,7 +166,7 @@ The application is deployed using **Streamlit Cloud**.
 
 🚀 Experience the live application here:
 
-👉 [Smart Inventory Management System]()
+👉 [Smart Inventory Management System](https://inventory-analytics-dashboard-2vfata2qg8eahqkrr8jcjh.streamlit.app/)
 
 ---
 
