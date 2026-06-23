@@ -6,6 +6,10 @@ This project demonstrates practical implementation of **data management, analyti
 
 ---
 
+!alt_text(image.png)
+
+---
+
 ## 🚀 Key Features
 
 ### 📌 Inventory Operations
