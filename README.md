@@ -61,6 +61,7 @@ This project demonstrates practical implementation of **data management, analyti
 smart-inventory-management-system/
 │
 ├── app.py
+├── Dashboard.png
 ├── requirements.txt
 ├── README.md
 ```
